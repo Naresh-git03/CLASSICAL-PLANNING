@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+# Name: Naresh V
+# Register Number: 212224060169
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
